@@ -38,11 +38,19 @@ c = 3
 d = 4
 # 3 to power 4
 
-exponent = 3 ** 4
+exponent = 3 ** 4     #exponent
 print(exponent)
 
 
 price = 50
 quantity = 4
-total = price * quantity
+
+total = price * quantity        #total
 print(total)
+
+# Order of Executions
+# 1. Parenthesis (is brackets)
+# 2. Exponents
+# 3. Multiplication / Division
+# 4. Addition / Subtraction
+

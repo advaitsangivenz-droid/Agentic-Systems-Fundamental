@@ -49,7 +49,7 @@ has_access = False
 
 # You can check variable type using "type"
 
-print(type(is_active))
+#### print(type(is_active))
 
 
 
