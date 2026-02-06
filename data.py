@@ -8,7 +8,7 @@ count = 10
 # loops
 
 # Floating point (float)
-# floating point is integer with decimals 
+# Floating point is integer with decimals 
 
 price = 0.99
 accuracy = 97.09
