@@ -38,8 +38,9 @@ if not is_blocked:
     print("access granted")
 
 completed = False
+# if user has not completed print retry
 
-if not completed:
+if not completed: #completed = false, not completed = true
     print("retry")
 
    

@@ -6,4 +6,7 @@ names = ["A", "B", "C" ]
 
 for i in names:
     print(i)
-    
+
+
+# ython says, take names one by one
+# print it and move to the next one
